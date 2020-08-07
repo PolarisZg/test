@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\learn\大学\秃头怪\test\有向图\源.cpp(79): warning C4715: “G_nodeNum”: 不是所有的控件路径都返回值
+  有向图.vcxproj -> D:\learn\大学\秃头怪\test\有向图\Debug\有向图.exe

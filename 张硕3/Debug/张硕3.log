@@ -1,0 +1,5 @@
+﻿  源.cpp
+D:\learn\大学\秃头怪\test\张硕3\源.cpp(10,18): warning C4244: “参数”: 从“__int64”转换到“double”，可能丢失数据
+D:\learn\大学\秃头怪\test\张硕3\源.cpp(10,17): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\learn\大学\秃头怪\test\张硕3\源.cpp(15,17): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  张硕3.vcxproj -> D:\learn\大学\秃头怪\test\张硕3\Debug\张硕3.exe

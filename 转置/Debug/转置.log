@@ -1,0 +1,4 @@
+﻿  转置.cpp
+D:\learn\大学\秃头怪\test\转置\转置.cpp(16,11): error C2664: “int swp(int *[])”: 无法将参数 1 从“int (*)[3][3]”转换为“int *[]”
+D:\learn\大学\秃头怪\test\转置\转置.cpp(16,9): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+D:\learn\大学\秃头怪\test\转置\转置.cpp(2,5): message : 参见“swp”的声明

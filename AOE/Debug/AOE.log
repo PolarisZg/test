@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\learn\大学\秃头怪\test\AOE\源.cpp(21,12): warning C4101: “length”: 未引用的局部变量
+  AOE.vcxproj -> D:\learn\大学\秃头怪\test\AOE\Debug\AOE.exe

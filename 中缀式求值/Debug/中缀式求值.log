@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\learn\大学\秃头怪\test\中缀式求值\源.cpp(95,12): warning C4101: “k”: 未引用的局部变量
+D:\learn\大学\秃头怪\test\中缀式求值\源.cpp(95,9): warning C4101: “j”: 未引用的局部变量
+  中缀式求值.vcxproj -> D:\learn\大学\秃头怪\test\中缀式求值\Debug\中缀式求值.exe

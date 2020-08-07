@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\learn\大学\秃头怪\test\栈-链表-数制转换\源.cpp(59,10): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\learn\大学\秃头怪\test\栈-链表-数制转换\源.cpp(61,10): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  栈-链表-数制转换.vcxproj -> D:\learn\大学\秃头怪\test\栈-链表-数制转换\Debug\栈-链表-数制转换.exe

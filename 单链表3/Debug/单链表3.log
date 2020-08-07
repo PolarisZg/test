@@ -1,0 +1,4 @@
+﻿源1.obj : error LNK2005: "int __cdecl N_insert(struct NODE * *,int,int)" (?N_insert@@YAHPAPAUNODE@@HH@Z) 已经在 源.obj 中定义
+源1.obj : error LNK2005: "int __cdecl N_out(struct NODE *)" (?N_out@@YAHPAUNODE@@@Z) 已经在 源.obj 中定义
+源1.obj : error LNK2005: _main 已经在 源.obj 中定义
+D:\learn\大学\秃头怪\test\单链表3\Debug\单链表3.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\learn\大学\秃头怪\test\单链表集合\源.cpp(136,9): warning C4101: “elem”: 未引用的局部变量
+D:\learn\大学\秃头怪\test\单链表集合\源.cpp(135,9): warning C4101: “position”: 未引用的局部变量
+  单链表集合.vcxproj -> D:\learn\大学\秃头怪\test\单链表集合\Debug\单链表集合.exe

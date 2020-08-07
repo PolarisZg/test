@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\learn\大学\秃头怪\test\表达式二叉树\源.cpp(43,23): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\learn\大学\秃头怪\test\表达式二叉树\源.cpp(134): warning C4715: “T_answer”: 不是所有的控件路径都返回值
+  表达式二叉树.vcxproj -> D:\learn\大学\秃头怪\test\表达式二叉树\Debug\表达式二叉树.exe

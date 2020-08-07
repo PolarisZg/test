@@ -1,0 +1,2 @@
+D:\learn\大学\秃头怪\test\中缀式转后缀式\Debug\中缀式转后缀式.exe
+D:\learn\大学\秃头怪\test\中缀式转后缀式\Debug\中缀式转后缀式.pdb

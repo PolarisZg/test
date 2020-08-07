@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\learn\大学\秃头怪\test\双栈奇偶\源.cpp(59,10): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\learn\大学\秃头怪\test\双栈奇偶\源.cpp(61,10): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  双栈奇偶.vcxproj -> D:\learn\大学\秃头怪\test\双栈奇偶\Debug\双栈奇偶.exe

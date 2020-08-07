@@ -1,0 +1,4 @@
+﻿  键盘输入.cpp
+D:\learn\大学\秃头怪\test\HelloWorld\键盘输入.cpp(77): warning C4715: “NinePalace_Answer”: 不是所有的控件路径都返回值
+LINK : warning LNK4044: 无法识别的选项“/nodefault:libcmt”；已忽略
+  HelloWorld.vcxproj -> D:\learn\大学\秃头怪\test\HelloWorld\Debug\HelloWorld.exe

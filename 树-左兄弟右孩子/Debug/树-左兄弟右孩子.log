@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\learn\大学\秃头怪\test\树-左兄弟右孩子\源.cpp(148): warning C4715: “T_deepth”: 不是所有的控件路径都返回值
+D:\learn\大学\秃头怪\test\树-左兄弟右孩子\源.cpp(177): warning C4715: “T_search”: 不是所有的控件路径都返回值
+  树-左兄弟右孩子.vcxproj -> D:\learn\大学\秃头怪\test\树-左兄弟右孩子\Debug\树-左兄弟右孩子.exe

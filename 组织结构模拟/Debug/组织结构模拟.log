@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\learn\大学\秃头怪\test\组织结构模拟\源.cpp(95): warning C4715: “T_deepth”: 不是所有的控件路径都返回值
+D:\learn\大学\秃头怪\test\组织结构模拟\源.cpp(136): warning C4715: “T_search”: 不是所有的控件路径都返回值
+  组织结构模拟.vcxproj -> D:\learn\大学\秃头怪\test\组织结构模拟\Debug\组织结构模拟.exe
